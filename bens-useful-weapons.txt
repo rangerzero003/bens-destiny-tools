@@ -14,3 +14,12 @@ dimwishlist:item=1937552980&perks=3038247973#notes:Explosive Payload - Best 3rd 
 dimwishlist:item=1937552980&perks=2848615171#notes:Dragonfly - Best 4th column perk, provides some add control from the precision kill explosion if adds are tightly grouped
 dimwishlist:item=1937552980&perks=3824105627#notes:Firefly - Best alternative to Explosive Payload. Similar to Dragonfly, creates a Solar Explosion and improves reload
 dimwishlist:item=1937552980&perks=4104185692#notes:Frenzy - Best alternative to Dragonfly in 4th column. Gives buffs just for being in combat for a period of time.
+
+//Zauoli's Bane
+//notes:Craftable
+dimwishlist:item=431721920&perks=839105230,3230963543,3038247973,4293542123#notes:The legendary Sunshot, God Roll, if you have the pattern, this is what you want to craft
+//notes:Useful rolls of the weapon. If you don't have the pattern yet, the weapon with these perks can still be useful. Ignores columns 1 and 2 for perks, as they are less important on non-God Rolls.
+dimwishlist:item=431721920&perks=3038247973,4293542123#notes:The non-crafted God Roll
+dimwishlist:item=431721920&perks=3038247973#notes:Explosive Payload - Best 3rd Column perk, and having it on the gun would still be a serviceable roll
+dimwishlist:item=431721920&perks=4293542123#notes:Incandescent - Best 4th Column perk, and best perk on the gun. If you have this perk on the gun, it is very useful
+dimwishlist:item=431721920&perks=3824105627#notes:Firefly - Best alternative to Incandescent in the 4th column
