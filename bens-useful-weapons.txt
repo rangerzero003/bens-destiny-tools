@@ -1,0 +1,16 @@
+title:Ben's DIM wishlist for useful guns
+description:This list contains weapons and perks that may be useful for people just getting started with Destiny 2
+
+//notes:Instant Trash - Weapons that aren't worth using at all
+dimwishlist:item=-2848549302
+
+//---- King's Fall Raid Weapons ----
+//Doom of Chelchis
+//notes:Craftable
+dimwishlist:item=1937552980&perks=839105230,3142289711,3038247973,2848615171#notes:God Roll, if you have the pattern, this is what you want to craft
+//notes:Useful rolls of the weapon. If you don't have the pattern yet, the weapon with these perks can still be useful. Ignores columns 1 and 2 for perks, as they are less important on non-God Rolls.
+dimwishlist:item=1937552980&perks=3038247973,2848615171#notes:Explosive Payload + Dragonfly - Best 3rd & 4th column combination. Provides some measure of add control from Explosive Payload's splash damage and Dragonfly's precision kill explosion
+dimwishlist:item=1937552980&perks=3038247973#notes:Explosive Payload - Best 3rd column perk, also useful against Barrier Champions in Episode Revenant
+dimwishlist:item=1937552980&perks=2848615171#notes:Dragonfly - Best 4th column perk, provides some add control from the precision kill explosion if adds are tightly grouped
+dimwishlist:item=1937552980&perks=3824105627#notes:Firefly - Best alternative to Explosive Payload. Similar to Dragonfly, creates a Solar Explosion and improves reload
+dimwishlist:item=1937552980&perks=4104185692#notes:Frenzy - Best alternative to Dragonfly in 4th column. Gives buffs just for being in combat for a period of time.

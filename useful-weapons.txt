@@ -1,6 +1,0 @@
-title:Ben's DIM wishlist for useful guns
-description:This list contains weapons and perks that may be useful for people just getting started with Destiny 2
-
-//notes:Instant Trash - Weapons that aren't worth using at all
-dimwishlist:item=-2848549302
-
