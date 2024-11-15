@@ -12,9 +12,9 @@ description:This list contains weapons and perks that may be useful for people j
 // 1a. King's Fall Raid Weapons
 
 //Doom of Chelchis
-//notes:Craftable
+notes:Craftable
 dimwishlist:item=1937552980&perks=839105230,3142289711,3038247973,2848615171#notes:God Roll, if you have the pattern, this is what you want to craft
-//notes:Useful rolls of the weapon. If you don't have the pattern yet, the weapon with these perks can still be useful. Ignores columns 1 and 2 for perks, as they are less important on non-God Rolls.
+notes:Useful rolls of the weapon. If you don't have the pattern yet, the weapon with these perks can still be useful. Ignores columns 1 and 2 for perks, as they are less important on non-God Rolls.
 dimwishlist:item=1937552980&perks=3038247973,2848615171#notes:Explosive Payload + Dragonfly - Best 3rd & 4th column combination. Provides some measure of add control from Explosive Payload's splash damage and Dragonfly's precision kill explosion
 dimwishlist:item=1937552980&perks=3038247973#notes:Explosive Payload - Best 3rd column perk, also useful against Barrier Champions in Episode Revenant
 dimwishlist:item=1937552980&perks=2848615171#notes:Dragonfly - Best 4th column perk, provides some add control from the precision kill explosion if adds are tightly grouped
@@ -22,9 +22,9 @@ dimwishlist:item=1937552980&perks=3824105627#notes:Firefly - Best alternative to
 dimwishlist:item=1937552980&perks=4104185692#notes:Frenzy - Best alternative to Dragonfly in 4th column. Gives buffs just for being in combat for a period of time.
 
 //Zauoli's Bane
-//notes:Craftable
+notes:Craftable
 dimwishlist:item=431721920&perks=839105230,3230963543,3038247973,4293542123#notes:The legendary Sunshot, God Roll, if you have the pattern, this is what you want to craft
-//notes:Useful rolls of the weapon. If you don't have the pattern yet, the weapon with these perks can still be useful. Ignores columns 1 and 2 for perks, as they are less important on non-God Rolls.
+notes:Useful rolls of the weapon. If you don't have the pattern yet, the weapon with these perks can still be useful. Ignores columns 1 and 2 for perks, as they are less important on non-God Rolls.
 dimwishlist:item=431721920&perks=3038247973,4293542123#notes:The non-crafted God Roll
 dimwishlist:item=431721920&perks=3038247973#notes:Explosive Payload - Best 3rd Column perk, and having it on the gun would still be a serviceable roll
 dimwishlist:item=431721920&perks=4293542123#notes:Incandescent - Best 4th Column perk, and best perk on the gun. If you have this perk on the gun, it is very useful
@@ -34,24 +34,24 @@ dimwishlist:item=431721920&perks=3824105627#notes:Firefly - Best alternative to 
 // 2a. Onslaught
 
 // Mountaintop - Hash: 568611922
-//notes: God Rolls
+notes: God Rolls
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,469285294#notes:The best roll for Mountaintop. Hard Launch reduces blast radius, which improves single target damage. Spike Grenades prove direct damage, which is how you want to use this weapon. Auto-Loading Holster lets you switch to another weapon and not reload. Recombination works well with Auto-Loading Holster, as the kills you get with other weapons stacks damage on your next Mountaintop shot.
 dimwishlist:item=568611922&perks=981914802,3301904089,3300816228,1546637391#notes:The second best roll for Mountaintop. Replaces Recombination with Vorpal. Vorpal gives you a flat damage buff against minibosses, bosses, vehicles, and Guardians (pvp). The top amount of damage you put out will be less than Recombination, but it could possibly average out, especially in fights where there aren't adds to stack Recombination.
-//notes: Good Rolls
+notes: Good Rolls
 dimwishlist:item=568611922&perks=3301904089,3300816228,469285294#notes:The 3/4 God Roll, blast radius reduction is really only important when min-maxing.
 dimwishlist:item=568611922&perks=3301904089,3300816228#notes:Very usable roll of the gun. Spike Grenades buff direct hits, and Auto-Loading Holster allows you to switch and keep shooting while it reloads.
 dimwishlist:item=568611922&perks=3300816228#notes:If you just want a Mountaintop to use, you really just need Auto-Loading Holster.
-//notes: Usable Rolls
+notes: Usable Rolls
 dimwishlist:item=568611922&perks=3301904089#notes:If you don't mind manually reloading, having one with Spike Grenades would be usable.
 dimwishlist:item=568611922&perks=469285294#notes:If you don't mind manually reloading, Recombination on the roll could be usable.
 dimwishlist:item=568611922&perks=1546637391#notes:If you don't mind manually reloading, Vorpal on the roll could be usable.
 
 // Edge Transit - Hash: 568611923
-//notes: God Rolls
+notes: God Rolls
 dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919#notes:Envious Assassin overflows the mag based on the number of kills prior to using the weapon. Bait and Switch gives you a damage buff if you do damage with both your other weapons before this one. Spike Grenades improve direct damage.
 dimwishlist:item=568611923&perks=3525010810,3301904089,3300816228,3078487919#notes:Auto-Loading can be used in place of Envious Assassin, you just don't get the magazine overflow. Bait and Switch gives you a damage buff if you do damage with both your other weapons before this one. Spike Grenades improve direct damage.
 
 //8. Instant Trash
-//notes:Instant Trash - Weapons that aren't worth using at all
+notes:Instant Trash - Weapons that aren't worth using at all
 // Neoptolomus II
 dimwishlist:item=-2848549302
