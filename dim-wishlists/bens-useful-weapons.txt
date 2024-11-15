@@ -46,6 +46,12 @@ dimwishlist:item=568611922&perks=3301904089#notes:If you don't mind manually rel
 dimwishlist:item=568611922&perks=469285294#notes:If you don't mind manually reloading, Recombination on the roll could be usable.
 dimwishlist:item=568611922&perks=1546637391#notes:If you don't mind manually reloading, Vorpal on the roll could be usable.
 
+// Edge Transit - Hash: 568611923
+//notes: God Rolls
+dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919#notes:Envious Assassin overflows the mag based on the number of kills prior to using the weapon. Bait and Switch gives you a damage buff if you do damage with both your other weapons before this one. Spike Grenades improve direct damage.
+dimwishlist:item=568611923&perks=3525010810,3301904089,3300816228,3078487919#notes:Auto-Loading can be used in place of Envious Assassin, you just don't get the magazine overflow. Bait and Switch gives you a damage buff if you do damage with both your other weapons before this one. Spike Grenades improve direct damage.
+
 //8. Instant Trash
 //notes:Instant Trash - Weapons that aren't worth using at all
+// Neoptolomus II
 dimwishlist:item=-2848549302
