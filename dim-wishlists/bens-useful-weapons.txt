@@ -125,6 +125,56 @@ dimwishlist:item=568611923&perks=3078487919
 dimwishlist:item=568611923&perks=3194351027
 
 // ---------------
+// Hammerhead - Hash: 1896309757
+// ---------------
+// God Rolls
+// ---------------
+//notes:Boss DPS God Roll for Hammerhead. LMGs are not the meta for boss DPS, but they can be consistent DPS against bosses that have easy to hit crit spots. Like most weapons, Arrowhead Brake is the barrel perk that you want, as it increases recoil control and handling. For the magazine perk, you have quite a few different options, mainly ammo perks to increase range, or magazine perks to increase reload speed or magazine capacity. The combination of Rewind Rounds or Envious Assassin or Fourth Times the Charm and Killing Tally allow you to do consistent damage to a boss for an extended period of time. You need to first proc Killing Tally by killing 3 adds, then you can just shoot the boss until you run our of ammo in the magazine. Rewind Rounds, Envious Assassin, or Fourth Times the Charm allows you to keep shooting longer before reloading, which means Killing Tally's buff lasts longer. This roll suffers when the boss encounter does not have adds to kill to proc Killing Tally.
+dimwishlist:item=1896309757&perks=839105230,1885400500,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,1968497646,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,1561002382,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,3230963543,3418782618,557221067
+dimwishlist:item=1896309757&perks=839105230,1885400500,968510818,557221067
+dimwishlist:item=1896309757&perks=839105230,1968497646,968510818,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,968510818,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,968510818,557221067
+dimwishlist:item=1896309757&perks=839105230,1561002382,968510818,557221067
+dimwishlist:item=1896309757&perks=839105230,3230963543,968510818,557221067
+dimwishlist:item=1896309757&perks=839105230,1885400500,1354429876,557221067
+dimwishlist:item=1896309757&perks=839105230,1968497646,1354429876,557221067
+dimwishlist:item=1896309757&perks=839105230,2420895100,1354429876,557221067
+dimwishlist:item=1896309757&perks=839105230,1087426260,1354429876,557221067
+dimwishlist:item=1896309757&perks=839105230,1561002382,1354429876,557221067
+dimwishlist:item=1896309757&perks=839105230,3230963543,1354429876,557221067
+//notes:Boss DPS God Roll for Hammerhead. LMGs are not the meta for boss DPS, but they can be consistent DPS against bosses that have easy to hit crit spots. Like most weapons, Arrowhead Brake is the barrel perk that you want, as it increases recoil control and handling. For the magazine perk, you have quite a few different options, mainly ammo perks to increase range, or magazine perks to increase reload speed or magazine capacity. The combination of Rewind Rounds, Envious Assassin, or Fourth Times the Charm and Target Lock allows you to reach the max stacks of damage buff for Target Lock. You need to continue shooting the same target to build Target Lock's buff, and you must fire greater than 100% of the magazine to proc. All 3 3rd column perks allow you to fire greater than 100% of the magazine. On average, Target Lock should do less damage than Killing Tally, but Target Lock does not require adds in the boss arena to proc the buff
+dimwishlist:item=1896309757&perks=839105230,1885400500,3418782618,365154968
+dimwishlist:item=1896309757&perks=839105230,1968497646,3418782618,365154968
+dimwishlist:item=1896309757&perks=839105230,2420895100,3418782618,365154968
+dimwishlist:item=1896309757&perks=839105230,1087426260,3418782618,365154968
+dimwishlist:item=1896309757&perks=839105230,1561002382,3418782618,365154968
+dimwishlist:item=1896309757&perks=839105230,3230963543,3418782618,365154968
+dimwishlist:item=1896309757&perks=839105230,1885400500,968510818,365154968
+dimwishlist:item=1896309757&perks=839105230,1968497646,968510818,365154968
+dimwishlist:item=1896309757&perks=839105230,2420895100,968510818,365154968
+dimwishlist:item=1896309757&perks=839105230,1087426260,968510818,365154968
+dimwishlist:item=1896309757&perks=839105230,1561002382,968510818,365154968
+dimwishlist:item=1896309757&perks=839105230,3230963543,968510818,365154968
+dimwishlist:item=1896309757&perks=839105230,1885400500,1354429876,365154968
+dimwishlist:item=1896309757&perks=839105230,1968497646,1354429876,365154968
+dimwishlist:item=1896309757&perks=839105230,2420895100,1354429876,365154968
+dimwishlist:item=1896309757&perks=839105230,1087426260,1354429876,365154968
+dimwishlist:item=1896309757&perks=839105230,1561002382,1354429876,365154968
+dimwishlist:item=1896309757&perks=839105230,3230963543,1354429876,365154968
+
+
+
+
+
+
+
+// ---------------
 //8. Instant Trash
 // ---------------
 //notes:Instant Trash - Weapons that aren't worth using at all
