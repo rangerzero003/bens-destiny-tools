@@ -98,6 +98,31 @@ dimwishlist:item=568611923&perks=3301904089,968510818,3078487919
 //notes:Spike Grenades, Envious Assassin or Auto-Loading Holster, Explosive Light. An alternative to Bait and Switch Edge Transit. Spike Grenades increase direct damage. Either Envious Assassin or Auto-Loading Holster to automatically reload the magazine. Explosive Light gives you a damage buff after you pick up Orbs.
 dimwishlist:item=568611923&perks=3301904089,3300816228,3194351027
 dimwishlist:item=568611923&perks=3301904089,968510818,3194351027
+// ---------------
+// Good Rolls
+// ---------------
+//notes:While heavy grenade launchers are not meta for add clear, a roll with Destabilizing Rounds could be useful if you need a weapon to do add clear. Auto-Loading Holster or Envious Assassin means you don't have to worry about reloading. This roll should be used along side a special weapon for boss DPS.
+dimwishlist:item=568611923&perks=3300816228,2048641572
+dimwishlist:item=568611923&perks=968510818,2048641572
+//notes:Another option for add clear, Chain Reaction with Destabilizing Rounds will cause a lot of explosions when used against normal enemies. This will not be useful for boss DPS, so you'll need to run a special weapon for DPS.
+dimwishlist:item=568611923&perks=2396489472,2048641572
+//notes:A usable roll of Edge Transit for boss DPS. Auto-Loading Holster or Envious Assassin with Bait and Switch will still do really good damage numbers, even without Spike Grenades in the second column. Just make sure to proc Bait and Switch before using Edge Transit to do boss DPS.
+dimwishlist:item=568611923&perks=3300816228,3078487919
+dimwishlist:item=568611923&perks=968510818,3078487919
+//notes:Another usable roll of Edge Transit for boss DPS. Auto-Loading Holster or Envious Assassin with Explosive Light will still do really good damage numbers, even without Spike Grenades in the second column. Make sure you proc Explosive Light before using Edge Transit for boss DPS.
+dimwishlist:item=568611923&perks=3300816228,3194351027
+dimwishlist:item=568611923&perks=968510818,3194351027
+// ---------------
+// Usable Rolls
+// ---------------
+//notes:Usable add clear roll of Edge Transit. Do note that Edge Transit is not considered meta for add clear, and there are better options for add clear than this.
+dimwishlist:item=568611923&perks=2048641572
+dimwishlist:item=568611923&perks=2396489472
+//notes:Usable boss DPS roll of Edge Transit.
+dimwishlist:item=568611923&perks=3300816228
+dimwishlist:item=568611923&perks=968510818
+dimwishlist:item=568611923&perks=3078487919
+dimwishlist:item=568611923&perks=3194351027
 
 // ---------------
 //8. Instant Trash
